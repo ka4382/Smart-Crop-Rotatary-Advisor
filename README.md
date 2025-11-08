@@ -5,6 +5,11 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-crop-rotatary-advisor.streamlit.app/)
+
+## 🚀 **[Live Demo - Try It Now!](https://smart-crop-rotatary-advisor.streamlit.app/)**
+
+---
 
 ## 📋 Table of Contents
 
